@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: cc4eded8e0ea066498751854ab74bb4c
+timeCreated: 1439604444
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninjaja0_0
+    21300002: ninjaja0_1
+    21300004: ninjaja0_2
+    21300006: ninjaja0_3
+    21300008: ninjaja0_4
+    21300010: ninjaja0_5
+    21300012: ninjaja0_6
+    21300014: ninjaja0_7
+    21300016: ninjaja0_8
+    21300018: ninjaja0_9
+    21300020: ninjaja0_10
+    21300022: ninjaja0_11
+    21300024: ninjaja0_12
+    21300026: ninjaja0_13
+    21300028: ninjaja0_14
+    21300030: ninjaja0_15
+    21300032: ninjaja0_16
+    21300034: ninjaja0_17
+    21300036: ninjaja0_18
+    21300038: ninjaja0_19
+    21300040: ninjaja0_20
+    21300042: ninjaja0_21
+    21300044: ninjaja0_22
+    21300046: ninjaja0_23
+    21300048: ninjaja0_24
+    21300050: ninjaja0_25
+    21300052: ninjaja0_26
+    21300054: ninjaja0_27
+    21300056: ninjaja0_28
+    21300058: ninjaja0_29
+    21300060: ninjaja0_30
+    21300062: ninjaja0_31
+    21300064: ninjaja0_32
+    21300066: ninjaja0_33
+    21300068: ninjaja0_34
+    21300070: ninjaja0_35
+    21300072: ninjaja0_36
+    21300074: ninjaja0_37
+    21300076: ninjaja0_38
+    21300078: ninjaja0_39
+    21300080: ninjaja0_40
+    21300082: ninjaja0_41
+    21300084: ninjaja0_42
+    21300086: Link_0
+    21300088: Link_1
+    21300090: Link_2
+    21300092: Link_3
+    21300094: Link_4
+    21300096: Link_5
+    21300098: Link_6
+    21300100: Link_7
+    21300102: Link_8
+    21300104: Link_9
+    21300106: Link_10
+    21300108: Link_11
+    21300110: Link_12
+    21300112: Link_13
+    21300114: Link_14
+    21300116: Link_15
+    21300118: Link_16
+    21300120: Link_17
+    21300122: Link_18
+    21300124: Link_19
+    21300126: Link_20
+    21300128: Link_21
+    21300130: Link_22
+    21300132: Link_23
+    21300134: Link_24
+    21300136: Link_25
+    21300138: Link_26
+    21300140: Link_27
+    21300142: Link_28
+    21300144: Link_29
+    21300146: Link_30
+    21300148: Link_31
+    21300150: Link_32
+    21300152: Link_33
+    21300154: Link_34
+    21300156: Link_35
+    21300158: Link_36
+    21300160: Link_37
+    21300162: Link_38
+    21300164: Link_39
+    21300166: Link_40
+    21300168: Link_41
+    21300170: Link_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Link_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 919
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 917
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 915
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 921
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 921
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 919
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_6
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 915
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 909
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 897
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 775
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 793
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 773
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 757
+        width: 56
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 779
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 779
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_15
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 779
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_16
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 777
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 657
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 655
+        width: 108
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 649
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 647
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_21
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 643
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_22
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 641
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_23
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 665
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_24
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 663
+        width: 102
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_25
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 655
+        width: 102
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 521
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 517
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 527
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 527
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_30
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 513
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_31
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 509
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_32
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 513
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_33
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 527
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 393
+        width: 113
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 395
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 395
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_37
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 393
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_38
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 397
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_39
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 397
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_40
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 393
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_41
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 401
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 254
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
